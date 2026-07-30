@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: vikranthdevops18/backend:694535bf15cb7328bd153687abca4167a3fd083a
+          image: vikranth18devops/backend:0b9f7e51cb1f4d384d713f174d1406e6fa5a221b
           ports:
             - containerPort: 5000
           env:
