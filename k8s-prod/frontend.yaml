@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: vikranth18devops/frontend:0b9f7e51cb1f4d384d713f174d1406e6fa5a221b
+          image: vikranth18devops/frontend:dffccfb384a509bff16ad6e89de8c9e3043ee509
           ports:
             - containerPort: 80
 ---
