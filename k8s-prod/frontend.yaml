@@ -20,7 +20,7 @@ spec:
         - name: regcred
       containers:
         - name: frontend
-          image: vikranthdevops18/frontend:dffccfb384a509bff16ad6e89de8c9e3043ee509
+          image: vikranthdevops18/frontend:216aed9a8cfbea81dbe8c71ecb409d952e03e72e
           ports:
             - containerPort: 80
 ---
