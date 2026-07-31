@@ -20,7 +20,7 @@ spec:
         - name: regcred
       containers:
         - name: backend
-          image: vikranth18devops/backend:b4077d17bc998dabafd190fd4d3c8abd19e11806
+          image: vikranthdevops18/backend:b4077d17bc998dabafd190fd4d3c8abd19e11806
           ports:
             - containerPort: 5000
           env:
